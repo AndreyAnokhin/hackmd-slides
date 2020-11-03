@@ -11,9 +11,6 @@ slideOptions:
 
 # Введение в Git и GitHub
 
-[![hackmd-github-sync-badge](https://hackmd.io/aT8acuRNS_SyBIluzMtQRQ/badge)](https://hackmd.io/aT8acuRNS_SyBIluzMtQRQ)
-
-
 ---
 
 <p style='text-align: justify;'>
