@@ -9,9 +9,6 @@ slideOptions:
   theme: white
 ---
 
-[![hackmd-github-sync-badge](https://hackmd.io/IrIK4C0RT4KcW8ZaBcx0Mw/badge)](https://hackmd.io/IrIK4C0RT4KcW8ZaBcx0Mw)
-
-
 ## Деплой моделей машинного обучения
 
 ---
